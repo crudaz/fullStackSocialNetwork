@@ -1,4 +1,6 @@
 {
   "mongoURI": "mongodb+srv://crudaz:crudaz@clusternode-jcpxz.mongodb.net/test?retryWrites=true&w=majority",
-  "jwtSecret": "mysecrettoken"
+  "jwtSecret": "mysecrettoken",
+  "githubClientId": "b58faa5f12c34f4b6be2",
+  "githubSecret": "270ba47353efe7ea3914304f252045cb05477af2"
 }
